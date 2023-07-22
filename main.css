@@ -1,0 +1,13 @@
+.header {
+    background-size: cover;
+    background-color: hsl(217, 89%, 25%); 
+    color: #ffffff; 
+    display: flex;
+    justify-content:space-between;
+    
+  }
+  
+  .header h1 {
+    margin: 20;
+    padding: 10px;
+  }
